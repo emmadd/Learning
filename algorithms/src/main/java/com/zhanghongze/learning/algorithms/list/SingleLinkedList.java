@@ -92,6 +92,9 @@ public class SingleLinkedList<E> {
         return p;
     }
 
+    /**
+     * 单链表反转
+     */
     public void reverse(){
         Node<E> p = null;
         Node<E> q = null;

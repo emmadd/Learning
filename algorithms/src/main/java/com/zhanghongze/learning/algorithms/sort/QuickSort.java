@@ -11,7 +11,7 @@ public class QuickSort<T extends Comparable<T>> {
             return;
         }
 
-        int j = partition(arr, l, h);
+        int j = partition2(arr, l, h);
         sort(arr,l, j-1);
         sort(arr, j+1, h);
     }
@@ -40,6 +40,24 @@ public class QuickSort<T extends Comparable<T>> {
         arr[l] = temp;
 
         return j;
+    }
+
+    private int partition2(T [] arr, int l, int h){
+        int pivot = l;
+        int index = pivot + 1;
+        for(int i=index;i<=h;i++){
+            if(arr[pivot].compareTo(arr[i])>0){
+                T temp = arr[i];
+                arr[i]= arr[index];
+                arr[index] = temp;
+                index++;
+            }
+        }
+
+        T temp = arr[pivot];
+        arr[pivot]= arr[index-1];
+        arr[index-1] = temp;
+        return index-1;
     }
 
     private static int findKthLargest(int[] nums, int begin, int end, int k) {

@@ -24,7 +24,7 @@ public class InsertSort<T extends Comparable<T>> {
         }
     }
     public static void main(String [] args){
-        InsertSort insertSort = new InsertSort();
+        InsertSort<Integer> insertSort = new InsertSort<Integer>();
 
 //        Integer[] a = {9,8,7,6,5,4,3,2,1};
 

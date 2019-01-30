@@ -1,7 +1,5 @@
 package com.zhanghongze.learning.algorithms.sort;
 
-import java.util.Arrays;
-
 public class BubbleSort<T extends Comparable<T>> {
 
     public void sort(T [] arr){

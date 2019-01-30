@@ -2,12 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3df46a84-d93b-4ac2-8839-1037d11bf1ca" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms/algorithms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/tree/BinaryTreeTraverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms/src/test/java/com/zhanghongze/learning/algorithms/tree/BinaryTreeTraverseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/LeetCode014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/LeetCode053.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/utils/DataUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/list/SingleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/list/SingleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/sort/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/sort/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/sort/InsertSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/sort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/sort/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/sort/ShellSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/string/StringRotate.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/string/StringRotate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/target/classes/com/zhanghongze/learning/algorithms/list/SingleLinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/target/classes/com/zhanghongze/learning/algorithms/list/SingleLinkedList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/target/classes/com/zhanghongze/learning/algorithms/list/SingleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/target/classes/com/zhanghongze/learning/algorithms/list/SingleLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/target/classes/com/zhanghongze/learning/algorithms/sort/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/target/classes/com/zhanghongze/learning/algorithms/sort/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/target/classes/com/zhanghongze/learning/algorithms/sort/InsertSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/target/classes/com/zhanghongze/learning/algorithms/sort/InsertSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/target/classes/com/zhanghongze/learning/algorithms/sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/target/classes/com/zhanghongze/learning/algorithms/sort/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/target/classes/com/zhanghongze/learning/algorithms/sort/ShellSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/target/classes/com/zhanghongze/learning/algorithms/sort/ShellSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/target/classes/com/zhanghongze/learning/algorithms/string/StringRotate.class" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/target/classes/com/zhanghongze/learning/algorithms/string/StringRotate.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/algorithms/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,100 +30,100 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/pom.xml">
+      <file leaf-file-name="LeetCode021.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/LeetCode021.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+            <state relative-caret-position="437">
+              <caret line="23" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/tree/Node.java">
+      <file leaf-file-name="LeetCode023.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/LeetCode023.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-              <folding>
-                <element signature="e#221#222#0" expanded="true" />
-                <element signature="e#252#253#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="294">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinaryTreeTraverse.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/tree/BinaryTreeTraverse.java">
+      <file leaf-file-name="LeetCode033.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/LeetCode033.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+            <state relative-caret-position="-134">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SingleLinkedList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/list/SingleLinkedList.java">
+      <file leaf-file-name="LeetCode42.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/LeetCode42.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            <state relative-caret-position="4">
+              <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="30" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BubbleSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/sort/BubbleSort.java">
+      <file leaf-file-name="LeetCode43.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/LeetCode43.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="4" column="48" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="48" />
+            <state relative-caret-position="245">
+              <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InsertSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/sort/InsertSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringRotate.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/string/StringRotate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="68" column="35" lean-forward="true" selection-start-line="68" selection-start-column="35" selection-end-line="68" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinaryTreeTraverseTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/src/test/java/com/zhanghongze/learning/algorithms/tree/BinaryTreeTraverseTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SingleLinkedListTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/src/test/java/com/zhanghongze/learning/algorithms/list/SingleLinkedListTest.java">
+      <file leaf-file-name="LeetCode053.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/LeetCode053.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
-              <caret line="4" column="33" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="33" />
+              <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QuickSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/sort/QuickSort.java">
+      <file leaf-file-name="LeetCode056.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/LeetCode056.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+            <state relative-caret-position="401">
+              <caret line="40" column="54" lean-forward="true" selection-start-line="40" selection-start-column="54" selection-end-line="40" selection-end-column="54" />
               <folding>
-                <element signature="e#131#132#0" expanded="true" />
-                <element signature="e#150#151#0" expanded="true" />
+                <element signature="e#495#505#0" expanded="true" />
+                <element signature="e#1547#1557#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Comparator.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Collections.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/util/Collections.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="139" column="57" selection-start-line="139" selection-start-column="57" selection-end-line="139" selection-end-column="57" />
+              <folding>
+                <element signature="e#5644#5645#0" expanded="true" />
+                <element signature="e#5675#5676#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringBuilder.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="345" column="25" selection-start-line="345" selection-start-column="25" selection-end-line="345" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -135,12 +146,40 @@
       <list>
         <option value="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/sort/MergeSort.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/sort/SelectionSort.java" />
-        <option value="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/sort/QuickSort.java" />
         <option value="$PROJECT_DIR$/algorithms/pom.xml" />
         <option value="$PROJECT_DIR$/algorithms/src/test/java/com/zhanghongze/learning/algorithms/list/SingleLinkedListTest.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/tree/Node.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/tree/BinaryTreeTraverse.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/sort/InsertSort.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/utils/ArrayUtil.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/utils/DataUtil.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/sort/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/TwoSum.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/AddTwoNumbers.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/sort/ShellSort.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/string/StringRotate.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/sort/QuickSort2.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/sort/QuickSort.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/LengthOfLongestSubstring.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/L001AddTwoNumbers.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/LeetCode001AddTwoNumbers.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/LeetCode002AddTwoNumbers.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/LeetCode003LengthOfLongestSubstring.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/L003LengthOfLongestSubstring.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/list/SingleLinkedList.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/L005LongestPalindrome.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/L004FindMedianSortedArrays.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/LeetCode014.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/list/ListNode.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/common/LeetCode021.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/common/ListNode.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/LeetCode021.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/LeetCode023.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/LeetCode033.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/LeetCode42.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/LeetCode43.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/LeetCode053.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/LeetCode056.java" />
       </list>
     </option>
   </component>
@@ -153,17 +192,16 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="748" />
+    <option name="height" value="742" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -214,46 +252,13 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="string" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
@@ -273,6 +278,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zhanghongze.learning.algorithms.leetcode" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -285,61 +295,61 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringRotate">
+  <component name="RunManager" selected="Application.LeetCode056">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="BinaryTreeTraverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zhanghongze.learning.algorithms.tree.BinaryTreeTraverse" />
+    <configuration name="L003LengthOfLongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhanghongze.learning.algorithms.leetcode.L003LengthOfLongestSubstring" />
       <module name="algorithms" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zhanghongze.learning.algorithms.tree.*" />
+          <option name="PATTERN" value="com.zhanghongze.learning.algorithms.leetcode.common.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zhanghongze.learning.algorithms.sort.MergeSort" />
+    <configuration name="L004FindMedianSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhanghongze.learning.algorithms.leetcode.L004FindMedianSortedArrays" />
       <module name="algorithms" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zhanghongze.learning.algorithms.sort.*" />
+          <option name="PATTERN" value="com.zhanghongze.learning.algorithms.leetcode.common.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zhanghongze.learning.algorithms.sort.QuickSort" />
+    <configuration name="L005LongestPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhanghongze.learning.algorithms.leetcode.L005LongestPalindrome" />
       <module name="algorithms" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zhanghongze.learning.algorithms.sort.*" />
+          <option name="PATTERN" value="com.zhanghongze.learning.algorithms.leetcode.common.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zhanghongze.learning.algorithms.sort.SelectionSort" />
+    <configuration name="LeetCode056" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhanghongze.learning.algorithms.leetcode.LeetCode056" />
       <module name="algorithms" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zhanghongze.learning.algorithms.sort.*" />
+          <option name="PATTERN" value="com.zhanghongze.learning.algorithms.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="StringRotate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zhanghongze.learning.algorithms.string.StringRotate" />
+    <configuration name="LeetCode43" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhanghongze.learning.algorithms.leetcode.LeetCode43" />
       <module name="algorithms" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zhanghongze.learning.algorithms.string.*" />
+          <option name="PATTERN" value="com.zhanghongze.learning.algorithms.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -386,19 +396,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.MergeSort" />
-      <item itemvalue="Application.QuickSort" />
-      <item itemvalue="Application.SelectionSort" />
-      <item itemvalue="Application.BinaryTreeTraverse" />
-      <item itemvalue="Application.StringRotate" />
+      <item itemvalue="Application.L003LengthOfLongestSubstring" />
+      <item itemvalue="Application.L005LongestPalindrome" />
+      <item itemvalue="Application.L004FindMedianSortedArrays" />
+      <item itemvalue="Application.LeetCode43" />
+      <item itemvalue="Application.LeetCode056" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringRotate" />
-        <item itemvalue="Application.BinaryTreeTraverse" />
-        <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.LeetCode056" />
+        <item itemvalue="Application.LeetCode43" />
+        <item itemvalue="Application.L004FindMedianSortedArrays" />
+        <item itemvalue="Application.L005LongestPalindrome" />
+        <item itemvalue="Application.L003LengthOfLongestSubstring" />
       </list>
     </recent_temporary>
   </component>
@@ -414,52 +424,63 @@
       <updated>1545434513539</updated>
       <workItem from="1545434517611" duration="924000" />
       <workItem from="1545920152766" duration="21147000" />
+      <workItem from="1547045013614" duration="588000" />
+      <workItem from="1547131515196" duration="3285000" />
+      <workItem from="1547212025645" duration="3699000" />
+      <workItem from="1547305184923" duration="2207000" />
+      <workItem from="1547648434244" duration="1104000" />
+      <workItem from="1547787733110" duration="3286000" />
+      <workItem from="1548134110433" duration="2892000" />
+      <workItem from="1548339582842" duration="4508000" />
+      <workItem from="1548650676112" duration="11796000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22071000" />
+    <option name="totallyTimeSpent" value="55436000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="748" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="742" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32961783" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32636657" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32636657" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32961783" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35056543" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.39095315" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39871383" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39968154" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32961783" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32636657" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.35056543" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.39095315" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -468,17 +489,16 @@
       <window_info id="Designer" order="3" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39871383" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Capture Tool" order="5" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32961783" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32636657" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info id="Favorites" order="6" side_tool="true" />
     </layout-to-restore>
@@ -489,7 +509,104 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/sort/ShellSort.java</url>
+          <line>12</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/L004FindMedianSortedArrays.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/LeetCode43.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/LeetCode43.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/tree/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/tree/BinaryTreeTraverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/list/SingleLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/sort/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="48" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/sort/InsertSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/test/java/com/zhanghongze/learning/algorithms/tree/BinaryTreeTraverseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/test/java/com/zhanghongze/learning/algorithms/list/SingleLinkedListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/string/StringRotate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="68" column="35" lean-forward="true" selection-start-line="68" selection-start-column="35" selection-end-line="68" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -508,54 +625,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="1215" selection-start-line="1215" selection-end-line="1215" />
-          <folding>
-            <element signature="e#46458#46459#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/sort/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-          <folding>
-            <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#153#154#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/sort/ShellSort.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/sort/SelectionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1136">
-          <caret line="63" column="58" selection-start-line="63" selection-start-column="58" selection-end-line="63" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/sort/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
-          <folding>
-            <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#150#151#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
+        <state relative-caret-position="380">
           <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/src/test/java/package-info.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/test/java/package-info.java" />
     <entry file="file://$PROJECT_DIR$/algorithms/src/test/java/com/zhanghongze/learning/algorithms/list/SingleLinkedListTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -566,53 +646,265 @@
     <entry file="file://$PROJECT_DIR$/algorithms/src/test/java/com/zhanghongze/learning/algorithms/tree/BinaryTreeTraverseTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/tree/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
+        <state relative-caret-position="323">
           <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-          <folding>
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/tree/BinaryTreeTraverse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+        <state relative-caret-position="950">
+          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/list/SingleLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/utils/DataUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="38">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/sort/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
-          <caret line="4" column="48" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="48" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/util/AbstractMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2185">
+          <caret line="142" column="19" selection-start-line="142" selection-start-column="19" selection-end-line="142" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/sort/ShellSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/sort/InsertSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
+        <state relative-caret-position="342">
+          <caret line="18" column="55" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7239">
+          <caret line="425" column="23" selection-start-line="425" selection-start-column="23" selection-end-line="425" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/string/StringRotate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="68" column="35" lean-forward="true" selection-start-line="68" selection-start-column="35" selection-end-line="68" selection-end-column="35" />
+        <state relative-caret-position="1178">
+          <caret line="62" column="47" selection-start-line="62" selection-start-column="47" selection-end-line="62" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2584">
+          <caret line="162" column="16" selection-start-line="162" selection-start-column="16" selection-end-line="162" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/sort/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/sort/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1197">
+          <caret line="63" column="58" selection-start-line="63" selection-start-column="58" selection-end-line="63" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/sort/QuickSort2.java" />
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/list/SingleLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2641">
+          <caret line="141" column="1" selection-start-line="141" selection-start-column="1" selection-end-line="141" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/L002AddTwoNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/L003LengthOfLongestSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/L004FindMedianSortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="69" column="5" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="657" selection-start-line="657" selection-end-line="657" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/L001TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/L005LongestPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/LeetCode014.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/common/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding>
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/LeetCode021.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/LeetCode023.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/LeetCode033.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-134">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/LeetCode42.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4">
+          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="345" column="25" selection-start-line="345" selection-start-column="25" selection-end-line="345" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/LeetCode43.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/LeetCode053.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="139" column="57" selection-start-line="139" selection-start-column="57" selection-end-line="139" selection-end-column="57" />
+          <folding>
+            <element signature="e#5644#5645#0" expanded="true" />
+            <element signature="e#5675#5676#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/com/zhanghongze/learning/algorithms/leetcode/LeetCode056.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="40" column="54" lean-forward="true" selection-start-line="40" selection-start-column="54" selection-end-line="40" selection-end-column="54" />
+          <folding>
+            <element signature="e#495#505#0" expanded="true" />
+            <element signature="e#1547#1557#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

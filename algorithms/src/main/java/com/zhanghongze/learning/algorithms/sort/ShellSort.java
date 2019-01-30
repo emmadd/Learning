@@ -12,12 +12,20 @@ public class ShellSort<T extends Comparable<T>> {
 
         while(h>=1) {
             for (int i = h; i < n; i++) {
-
-                for (int j = i; j >= h && arr[j].compareTo(arr[j - h]) <0; j = j - h) {
-                    T temp = arr[j - h];
-                    arr[j - h] = arr[j];
-                    arr[j] = temp;
+                T t = arr[i];
+                int j = i;
+                while (j >= h) {
+//                    T temp = arr[j - h];
+//                    arr[j - h] = arr[j];
+//                    arr[j] = temp;
+                    if(t.compareTo(arr[j-h]) <0){
+                        arr[j] = arr[j-h];
+                        j = j - h;
+                    }else {
+                        break;
+                    }
                 }
+                arr[j] = t;
             }
             h = h / 3;
         }

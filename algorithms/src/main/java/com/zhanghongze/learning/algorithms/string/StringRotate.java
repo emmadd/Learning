@@ -53,15 +53,16 @@ public class StringRotate {
         }
 
         int from = 0;
-        int to = from+1;
+        int to = from;
 
         while (to<arr.length-1){
+            to++;
             if (arr[to] != ' '){
-                to++;
                 continue;
+            }else {
+                reverseString(arr, from, to-1);
+                from = to+1;
             }
-            reverseString(arr, from, to);
-            from = to;
 
             for(char c : arr){
                 System.out.print(c);
